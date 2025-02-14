@@ -2,7 +2,8 @@
 public class Hello {
 	public static void main( String args[] )
 	 {
-	  System.out.println( "Hello, " + args[0] + "!" );
+		String wargs = "CSCI 4485";
+	  	System.out.println( "Hello, " + wargs + "!" );
 	 }
 
 }
